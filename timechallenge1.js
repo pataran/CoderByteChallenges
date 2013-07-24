@@ -1,5 +1,3 @@
-<html>
-<script>
 function TimeConvert(num) { 
 	
   var hour = Math.floor(num/60);
@@ -18,5 +16,3 @@ function TimeConvert(num) {
   }
   TimeConvert(69);
   */
-  </script>
-  </html>

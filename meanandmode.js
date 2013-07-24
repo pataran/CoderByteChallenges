@@ -1,6 +1,3 @@
-<html>
-<script>
-
 function meanMode(arr) { 
 	var frequency = {};
 	var total = 0;
@@ -28,5 +25,3 @@ if (mean === mode){
 }
 }
 meanMode([5, 3, 3, 3, 1]);
-</script>
-</html>

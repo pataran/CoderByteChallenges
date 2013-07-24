@@ -1,8 +1,3 @@
-<html>
-<head>
-</head>
-<script>
-
 var sum = [1, 2, 3].reduce(add, 0);
 
 function add(a, b) {
@@ -10,7 +5,3 @@ function add(a, b) {
 }
 
 console.log(sum);
-</script>
-
-
-</html>

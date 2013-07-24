@@ -1,5 +1,4 @@
-<html>
-<script>
+
 function SecondGreatLow(arr) { 
      var secondlargest;
      secondlargest = arr.sort(function(a,b){return a-b})[arr.length - 2];
@@ -11,5 +10,3 @@ function SecondGreatLow(arr) {
          
 }
 SecondGreatLow(46,52,40,29,100,500);
-</script>
-</html>

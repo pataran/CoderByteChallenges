@@ -1,5 +1,3 @@
-<html>
-<script>
 function ExOh(str) { 
   xtotal = 0;
   ototal = 0; 
@@ -21,5 +19,3 @@ function ExOh(str) {
     return false
       }
   }
-  </script>
-  </html>
