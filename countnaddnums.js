@@ -1,5 +1,4 @@
-<html>
-<script>   
+
 function ArrayAddition(arr) { 
 		var answer = {};
 		var largestnumber = [];
@@ -81,5 +80,3 @@ function ArrayAddition(arr) {
 ArrayAddition([4, 6, 23, 10, 3]);
 
 */
-</script>
-</html>

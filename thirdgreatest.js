@@ -1,6 +1,3 @@
-<html>
-<script>
-
 var thirdGreatest = function(str){
 var arr = [];
 for( var i = 0; i<str.length; i++){
@@ -21,5 +18,4 @@ return 0;
 
 };
 thirdGreatest(["hello","charles","Grapefruit","tulips","here","why"]);
-</script>
-</html>
+

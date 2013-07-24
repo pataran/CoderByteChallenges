@@ -1,5 +1,3 @@
-<html>
-<script>
 function SwapCase(str) { 
     var words = [];
   for( var i = 0; i<str.length; i++){
@@ -16,5 +14,3 @@ function SwapCase(str) {
 }
 SwapCase("hEllO All");
 
-</script>
-</html>
