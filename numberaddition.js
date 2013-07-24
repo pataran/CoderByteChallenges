@@ -1,5 +1,3 @@
-<html>
-<script>
 	var numberAddition = function(str){
 	var total = 0
 	var number =  str.match(/\d+/g);
@@ -14,8 +12,3 @@ console.log(total);
 
 }
 numberAddition("88Hello 3worl3d!45");
-
-
-
-</script>
-</html>
